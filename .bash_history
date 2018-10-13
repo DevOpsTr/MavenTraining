@@ -115,3 +115,142 @@ ls -ltr
 java -version
 which java
 exit
+ls -ltr
+java -version
+mvn --version
+git --ersion
+git --version
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+ls -ltr
+tree my-app
+cd my-app
+ls -ltr
+apt-get install tree
+sudo apt-get install tree
+tree my-app
+cd ..
+tree my-app
+cd -
+cat pom.xml
+mvn validate
+mvn --help
+mvn clean validate
+mvn clean compile
+ls -ltr
+tree target
+cd
+ls -ltra
+cd .m2
+ls -ltra
+cd repository
+ls -ltra
+cd ../..
+tree .m2
+ls -ltr
+cd my-app
+ls -ltr
+mvn clean
+ls -ltr
+cd ../.m2
+ls -ltr
+cd repository
+ls -ltr
+date
+cd
+ls
+cd my-app
+ls -ltr
+ls -ltr
+cd /.m2
+cd .m2/repository/
+ls -ltr
+mvn clean install
+cd
+ls
+cd my-app
+ls
+mvn clean install
+ls -ltr
+tree target
+cd ../.m2/repository/
+ls -ltr
+date
+cd com
+ls -ltr
+tree mycompany
+cd ../..
+rm -rf repository/
+ls -ltr
+cd ../my-app/
+mvn clean install
+ls -ltr
+date
+cd ../.m2
+ls -ltr
+cd repository/
+ls -ltr
+tree com
+cd ../../my-app/target/
+cd ..
+mv clean
+mvn clean
+ls -ltr
+cd ../.m2/repository/
+ls -ltr
+cd -
+git status
+cd ..
+git status
+git add .
+git status
+git branch
+git --version
+git commit -m "for maven1"
+git status
+git push origin master
+git status
+git branch
+git pull Origin master
+git remote -v
+cd
+ls -ltr
+rm -rf TrClass1
+ssh-keygen
+cat /home/ubuntu/.ssh/id_rsa
+ssh-keygen
+cat /home/ubuntu/.ssh/id_rsa.pub.
+cat /home/ubuntu/.ssh/id_rsa.pub
+git remote git@github.com:bhmuduli/MavenTraining.git
+git remote add origin git@github.com:bhmuduli/MavenTraining.git
+git remote -v
+git push origin master
+git pull origin master
+ls -ltr
+git push origin master
+hostname
+exit
+uname
+java -version
+hostname
+which java
+java -version
+exit
+hostname -f
+exit
+hostname
+hostname -f
+cd .ssh
+ls -ltr
+vi authorized_keys
+cd
+ls -ltr
+hostname -f
+mkdir jenkins-slave
+cd jenkins-slave
+pwd
+ls -ltr
+hostname -f
+ls -ltr
+exit
+java -version
+exit

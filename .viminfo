@@ -21,13 +21,90 @@
 # Registers:
 
 # File marks:
-'0  1  25  ~/TrClass1/c.txt
-'1  3  12  ~/TrClass1/b.txt
-'2  2  21  ~/TrClass1/b.txt
-'3  1  20  ~/TrClass1/b.txt
-'4  1  26  ~/TrClass1/a.txt
+'0  12  7  ~/.gitignore
+'1  2  403  ~/.ssh/authorized_keys
+'2  1  25  ~/TrClass1/c.txt
+'3  3  12  ~/TrClass1/b.txt
+'4  2  21  ~/TrClass1/b.txt
+'5  1  20  ~/TrClass1/b.txt
+'6  1  26  ~/TrClass1/a.txt
 
 # Jumplist (newest first):
+-'  12  7  ~/.gitignore
+-'  1  0  ~/.gitignore
+-'  2  403  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  1  25  ~/TrClass1/c.txt
+-'  3  12  ~/TrClass1/b.txt
+-'  1  0  ~/TrClass1/b.txt
+-'  2  21  ~/TrClass1/b.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  3  12  ~/TrClass1/b.txt
+-'  1  0  ~/TrClass1/b.txt
+-'  2  21  ~/TrClass1/b.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  25  ~/TrClass1/c.txt
+-'  3  12  ~/TrClass1/b.txt
+-'  1  0  ~/TrClass1/b.txt
+-'  2  21  ~/TrClass1/b.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  3  12  ~/TrClass1/b.txt
+-'  1  0  ~/TrClass1/b.txt
+-'  2  21  ~/TrClass1/b.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  2  403  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  1  25  ~/TrClass1/c.txt
+-'  3  12  ~/TrClass1/b.txt
+-'  1  0  ~/TrClass1/b.txt
+-'  2  21  ~/TrClass1/b.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  3  12  ~/TrClass1/b.txt
+-'  1  0  ~/TrClass1/b.txt
+-'  2  21  ~/TrClass1/b.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
+-'  1  26  ~/TrClass1/a.txt
 -'  1  25  ~/TrClass1/c.txt
 -'  3  12  ~/TrClass1/b.txt
 -'  1  0  ~/TrClass1/b.txt
@@ -53,6 +130,18 @@
 -'  1  26  ~/TrClass1/a.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	"	12	7
+	^	12	8
+	.	12	0
+	+	12	0
+
+> ~/.ssh/authorized_keys
+	"	2	403
+	^	2	404
+	.	2	366
+	+	2	366
 
 > ~/TrClass1/c.txt
 	"	1	25
